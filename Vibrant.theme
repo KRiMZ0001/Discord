@@ -29,8 +29,8 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
 .theme-dark {
     /*
     name of the Discord window (top left)
-    default : "Vibrant Glass" */
-    --window-name: "Vibrant Glass";
+    default : "Gian!#0001 | pdfz" */
+    --window-name: "Gian!#0001 | pdfz";
     /*
     color of the Discord window name
     default : rgb(255, 255, 255) */
